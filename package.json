@@ -1,0 +1,22 @@
+{
+  "name": "ngcolombia-draw",
+  "version": "1.0.0",
+  "description": "Backend para workshop ngColombia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL",
+    "Draw",
+    "ngColombia",
+    "NodeJs"
+  ],
+  "author": "Carlos Pontón",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.4.2",
+    "graphql": "^14.1.1",
+    "mongoose": "^5.4.14"
+  }
+}
